@@ -2,3 +2,4 @@ node_modules
 experimental
 test.*
 *.csv
+slack_notification_url
