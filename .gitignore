@@ -1,0 +1,5 @@
+node_modules
+experimental
+test.*
+*.csv
+*.png
